@@ -1,5 +1,5 @@
 {
-  "name": "road-to-react-with-hooks",
+  "name": "tasks-react-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,9 +14,17 @@
     "@types/react-dom": "18.0.11",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "js-cookie": "^3.0.1",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.3",
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^5.1.15",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
   }
 }
